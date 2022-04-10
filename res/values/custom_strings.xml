@@ -15,4 +15,6 @@
     <string name="icon_pack_title">System icon packs</string>
     <string name="font_title">System fonts</string>
     <string name="font_preview_card_content_description">Font Preview</string>
+
+    <string name="system_icons">System icons</string>
 </resources>
