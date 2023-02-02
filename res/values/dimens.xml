@@ -139,4 +139,6 @@
 
     <dimen name="icon_options_container_min_height">96dp</dimen>
     <dimen name="icon_options_container_top_margin">24dp</dimen>
+
+    <dimen name="default_margin">16dp</dimen>
 </resources>
